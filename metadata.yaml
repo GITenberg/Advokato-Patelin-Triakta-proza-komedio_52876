@@ -1,0 +1,45 @@
+_repo: Advokato-Patelin-Triakta-proza-komedio_52876
+_version: 0.0.1
+alternative_title: L'Avocat Patelin. Esperanto
+contributor:
+  translator:
+    agent_name: Evrot, Joseph
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '47099'
+    url: http://www.gutenberg.org/2009/agents/47099
+    wikipedia: https://eo.wikipedia.org/wiki/Joseph_Evrot
+creator:
+  authors:
+  - agent_name: Palaprat, Jean
+    aliases:
+    - Bigot, Jean Palaprat, sieur de
+    - Palaprat, J. (Jean)
+    birthdate: 1650
+    deathdate: 1721
+    gutenberg_agent_id: '47098'
+    url: http://www.gutenberg.org/2009/agents/47098
+  - agent_name: Brueys
+    aliases:
+    - De Brueys, David-Augustin
+    - Brueys, David-Augustin de
+    birthdate: 1640
+    deathdate: 1723
+    gutenberg_agent_id: '47097'
+    url: http://www.gutenberg.org/2009/agents/47097
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2016-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52876'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama (Comedy) -- Translations into Esperanto'
+- !lcc 'PQ'
+- GITenberg
+title: 'Advokato Patelin: Triakta proza komedio'
+url: http://www.gutenberg.org/ebooks/52876

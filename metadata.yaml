@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '47099'
     url: http://www.gutenberg.org/2009/agents/47099
     wikipedia: https://eo.wikipedia.org/wiki/Joseph_Evrot
+covers:
+- cover_type: archival
+  image_path: 52876-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Palaprat, Jean
@@ -28,6 +31,8 @@ creator:
     gutenberg_agent_id: '47097'
     url: http://www.gutenberg.org/2009/agents/47097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52876#Advokato-Patelin-Triakta-proza-komedio
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2016-08-22'
 gutenberg_type: Text
